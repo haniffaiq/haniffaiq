@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @haniffaiq but on instagram you can search @lama2dingin
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Frontend Dev using ReactJS and TailwindCSS
+- 🌱 I’m currently learning Frontend Dev using ReactJS and TailwindCSS; Backend Dev using NodeJS
+- 🌱 I'm currently working as a data engineer now.
 - 💞️ I’m looking to collaborate on making new feature to solve our problem
 - 📫 How to reach me ? send to email : haniffaiq95@gmail.com
 
