@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! You can also find me on Instagram as [@lama2dingin](https://www.instagram.com/lama2dingin/). I'm passionate about software development and constantly exploring new technologies and frameworks. Here's some information about me:
 
 - 👀 I'm interested in Software Development.
-- 🌱 Currently, I'm focused on learning Frontend Development using ReactJS and TailwindCSS, as well as Backend Development using NodeJS.
-- 👨‍💻 I'm currently working as a Data Engineer.
+- 🌱 Currently, I'm focused on learning Frontend Development using ReactJS and TailwindCSS, as well as Backend Development using Python and NodeJS.
+- 👨‍💻 I'm currently working as a Data Engineer and Python Developer.
 - 💞️ I'm looking to collaborate on creating new features to solve problems and improve existing solutions.
 
 ## 💼 Experience
@@ -19,7 +19,7 @@ I have experience working on various projects involving data engineering and sof
 I'm currently focused on expanding my skills in the following areas:
 
 - Frontend Development: ReactJS and TailwindCSS.
-- Backend Development: NodeJS.
+- Backend Development: Python,NodeJS.
 
 I'm dedicated to staying updated with the latest technologies and best practices in the software development field.
 
