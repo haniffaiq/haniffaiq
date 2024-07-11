@@ -49,3 +49,19 @@ You can contact me via email at haniffaiq95@gmail.com. I'm always happy to conne
 Feel free to explore my repositories and check out my projects. I look forward to connecting with you!
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haniffaiq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=haniffaiq&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haniffaiq&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/haniffaiq/count.svg?"  />
+</div>
+
+###
