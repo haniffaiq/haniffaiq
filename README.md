@@ -58,10 +58,6 @@ Feel free to explore my repositories and check out my projects. I look forward t
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/haniffaiq/count.svg?"  />
-</div>
 
 ###
