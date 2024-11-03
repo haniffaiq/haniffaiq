@@ -4,7 +4,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haniffaiq&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-# Hi, I'm Hanif (@haniffaiq)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+i'm+Hanif;You+can+call+me+lama2dingin" alt="Typing SVG" /></a>
+
+</p>
+
+# Hi, I'm Hanif 
 
 Welcome to my GitHub profile! You can also find me on Instagram as [@lama2dingin](https://www.instagram.com/lama2dingin/). I'm passionate about software development and constantly exploring new technologies and frameworks. Here's some information about me:
 
