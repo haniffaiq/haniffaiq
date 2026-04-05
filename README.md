@@ -8,54 +8,238 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+i'm+Hanif;You+can+call+me+lama2dingin" alt="Typing SVG" /></a>
 
 </p>
+<div align="center">
 
-# Hi, I'm Hanif 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haniffaiq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" />
 
-Welcome to my GitHub profile! You can also find me on Instagram as [@lama2dingin](https://www.instagram.com/lama2dingin/). I'm passionate about software development and constantly exploring new technologies and frameworks. Here's some information about me:
+<img src="https://streak-stats.demolab.com?user=haniffaiq&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
 
-## 👀 About Me
-- 💻 I'm interested in Software Development.
-- 🌱 Currently, I'm focused on learning Frontend Development using ReactJS and TailwindCSS, as well as Backend Development using Python and NodeJS.
-- 👨‍💻 I'm currently working as a Data Engineer and Python Developer.
-- 💞️ I'm looking to collaborate on creating new features to solve problems and improve existing solutions.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haniffaiq&radius=16&theme=react&area=true" height="300" />
 
-## 💼 Experience
+</div>
 
-I have experience working on various projects involving data engineering and software development. Here are some highlights:
+<p align="center">
 
-- **Prodigy Insurance:** As a Data Engineer, I developed scalable data pipelines and implemented data processing workflows to ensure efficient data handling and analysis.
-- **Habibi Garden:** As a Software Engineer, I contributed to the development of web applications, ensuring their performance, functionality, and user experience.
-- **Astra Graphia IT (AGIT):** As a Python Developer, I worked on backend systems, developing and maintaining various applications and services to support business operations.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I'm+Hanif;DevOps+Engineer;Backend+Engineer;Infrastructure+Builder" />
 
-## 🌱 What I'm Currently Learning
+</p>
 
-I'm currently focused on expanding my skills in the following areas:
+---
 
-- Frontend Development: ReactJS and TailwindCSS.
-- Backend Development: Python, NodeJS.
-- DevOps: Docker, Jenkins, Bash shell code.
+# Hi, I'm Hanif
 
-I'm dedicated to staying updated with the latest technologies and best practices in the software development field.
+**DevOps Engineer | Backend Engineer | Infrastructure Builder**
 
-## 🔧 Technologies I'm Proficient In
+I specialize in building reliable backend systems, scalable infrastructure, and automated deployment pipelines. My daily work involves managing production environments, optimizing deployments, and maintaining system reliability across multiple environments.
 
-Here are some technologies I'm proficient in:
+---
 
-- **Programming Languages:** Python, JavaScript.
-- **Frontend:** ReactJS, TailwindCSS, Bootstrap, React Native.
-- **Backend:** Flask, FastAPI, NodeJS, ExpressJS.
-- **Databases:** MongoDB, PostgreSQL, MySQL.
-- **Deployment:** Docker.
+# 👀 About Me
 
-I'm always excited to explore new technologies and frameworks to enhance my skill set.
+- 💻 Focused on **DevOps, Backend Development, and Infrastructure Engineering**
+- 🚀 Experienced in building **cloud-based infrastructure and containerized systems**
+- 🔧 Work with **production environments, staging workflows, and automated deployments**
+- 🧠 Strong interest in **system architecture and distributed systems**
+- 🎯 Long-term focus: **Platform Engineering & System Reliability**
 
-## 🤝 Collaboration
+---
 
-I'm open to collaborating with like-minded individuals on projects that involve solving problems and creating innovative solutions. If you have any interesting ideas or projects, feel free to reach out to me. Let's work together to make a positive impact!
+# 💼 Experience
 
-## 📫 How to Reach Me
+## Huawei Indonesia — DevOps Engineer (Current)
 
-You can contact me via email at haniffaiq95@gmail.com. I'm always happy to connect and discuss potential collaborations or answer any questions you may have.
+Responsible for infrastructure deployment, service operations, and backend platform reliability.
+
+### Responsibilities:
+
+- Design and maintain **multi-environment infrastructure**
+- Deploy backend services using **CI/CD pipelines**
+- Manage **containerized applications** using Docker
+- Handle **scheduled scaling and environment lifecycle**
+- Maintain **production and staging environments**
+- Troubleshoot deployment failures and runtime issues
+- Collaborate across engineering teams to ensure system stability
+- Maintain deployment consistency across multiple services
+
+### Technologies Used:
+
+- Docker  
+- Linux  
+- CI/CD Pipelines  
+- Cloud Infrastructure  
+- Deployment Automation  
+- Monitoring & Debugging  
+
+---
+
+## Freelance / External Projects — Fullstack & DevOps Engineer
+
+Worked on backend development and infrastructure automation across multiple systems.
+
+### Responsibilities:
+
+- Develop backend APIs using Python and NodeJS
+- Build containerized deployment environments
+- Setup environment-based deployments (dev / staging / production)
+- Configure database connectivity
+- Maintain CI/CD pipelines
+- Improve runtime and deployment reliability
+
+---
+
+## Previous Experience
+
+### Prodigy Insurance — Data Engineer
+
+- Built scalable data pipelines
+- Designed structured data workflows
+- Automated ingestion processes
+
+---
+
+### Habibi Garden — Software Engineer
+
+- Developed web applications
+- Improved system performance
+- Enhanced user functionality
+
+---
+
+### Astra Graphia IT (AGIT) — Python Developer
+
+- Built backend systems
+- Maintained production services
+- Implemented application logic
+
+---
+
+# 🌱 Current Focus
+
+Currently deepening skills in:
+
+- DevOps Engineering  
+- Cloud Infrastructure  
+- Containerized Systems  
+- CI/CD Automation  
+- Backend Architecture  
+- System Reliability  
+
+---
+
+# 🔧 Technologies
+
+## Programming Languages
+
+- Python  
+- JavaScript  
+- Bash  
+
+---
+
+## Backend
+
+- FastAPI  
+- Flask  
+- ExpressJS  
+- NodeJS  
+
+---
+
+## Frontend
+
+- ReactJS  
+- TailwindCSS  
+
+---
+
+## Databases
+
+- PostgreSQL  
+- MongoDB  
+- MySQL  
+
+---
+
+## DevOps & Infrastructure
+
+- Docker  
+- Linux  
+- CI/CD Pipelines  
+- Container Deployment  
+- Environment Automation  
+
+---
+
+# 📈 What I Build
+
+Typical systems I work on:
+
+- Backend APIs  
+- Deployment pipelines  
+- Containerized applications  
+- Multi-environment infrastructure  
+- Automated deployment workflows  
+- Scalable backend systems  
+
+---
+
+# 🚀 Featured Work (To Be Added)
+
+You should add real repositories here.
+
+Example:
+
+## Infrastructure Deployment Project
+
+Production-style infrastructure deployment system.
+
+Tech used:
+
+- Docker  
+- CI/CD  
+- Cloud Infrastructure  
+
+---
+
+## Backend API System
+
+Containerized backend API service.
+
+Tech used:
+
+- FastAPI  
+- PostgreSQL  
+- Docker  
+
+---
+
+# 🤝 Collaboration
+
+Open to collaboration on:
+
+- DevOps Systems  
+- Backend Platforms  
+- Infrastructure Automation  
+- Production Deployment Systems  
+
+---
+
+# 📫 Contact
+
+Email: **haniffaiq95@gmail.com**
+
+---
+
+# ⚡ Engineering Focus
+
+I prioritize:
+
+- Reliability  
+- Automation  
+- Scalability  
+- Maintainability  
+
+Systems should be **repeatable**, **predictable**, and **production-ready**.
 
 Feel free to explore my repositories and check out my projects. I look forward to connecting with you!
 
