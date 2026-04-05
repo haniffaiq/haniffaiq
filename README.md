@@ -1,14 +1,4 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haniffaiq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=haniffaiq&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haniffaiq&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+i'm+Hanif;You+can+call+me+lama2dingin" alt="Typing SVG" /></a>
-
-</p>
-<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haniffaiq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" />
 
@@ -240,14 +230,3 @@ I prioritize:
 - Maintainability  
 
 Systems should be **repeatable**, **predictable**, and **production-ready**.
-
-Feel free to explore my repositories and check out my projects. I look forward to connecting with you!
-
----
-
-
-###
-
-
-
-###
