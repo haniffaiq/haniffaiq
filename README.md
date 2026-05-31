@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haniffaiq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=haniffaiq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=haniffaiq&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=haniffaiq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://streak-stats.demolab.com?user=haniffaiq&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haniffaiq&radius=16&theme=react&area=true" height="300" />
+---
+[![](https://komarev.com/ghpvc/?username=haniffaiq&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I'm+Hanif;DevOps+Engineer;Backend+Engineer;Infrastructure+Builder" />
-
-</p>
 
 ---
 
