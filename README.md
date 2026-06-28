@@ -174,33 +174,61 @@ Typical systems I work on:
 
 ---
 
-# 🚀 Featured Work (To Be Added)
+# 🚀 Featured Work
 
-You should add real repositories here.
+Selected repositories with the strongest project hygiene signals: complete structure, documentation, environment handling, tests/tooling, and deployment readiness.
 
-Example:
+## Petagid
 
-## Infrastructure Deployment Project
+Private production-style TypeScript application with full-stack architecture, shared infrastructure integration, and deployment-oriented project structure.
 
-Production-style infrastructure deployment system.
+Tech focus:
 
-Tech used:
-
-- Docker  
-- CI/CD  
-- Cloud Infrastructure  
+- TypeScript  
+- Full-stack application architecture  
+- PostgreSQL / Redis / object storage integration  
+- Dockerized infrastructure workflow  
 
 ---
 
-## Backend API System
+## Photobox
 
-Containerized backend API service.
+Private TypeScript product repository focused on media/photo workflow, application reliability, and production-style development practices.
 
-Tech used:
+Tech focus:
 
-- FastAPI  
-- PostgreSQL  
-- Docker  
+- TypeScript  
+- Web application architecture  
+- Media workflow  
+- Shared infrastructure integration  
+
+---
+
+## JakartaBC
+
+Private TypeScript website/application repository with clean frontend structure and deployment-ready project hygiene.
+
+Tech focus:
+
+- TypeScript  
+- Frontend engineering  
+- Web delivery workflow  
+- Maintainable project structure  
+
+---
+
+## POS System
+
+Public TypeScript point-of-sale system repository with strong repo hygiene and maintainable application structure.
+
+Repository: [haniffaiq/pos-system](https://github.com/haniffaiq/pos-system)
+
+Tech focus:
+
+- TypeScript  
+- POS application flow  
+- Frontend/backend integration  
+- Maintainable web app structure  
 
 ---
 
